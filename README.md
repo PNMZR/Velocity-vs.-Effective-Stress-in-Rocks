@@ -1,3 +1,3 @@
-## Velocity vs. Effective Stress in Rocks
+# Velocity vs. Effective Stress in Rocks
 
-In this project, we want to collect some data about velocity vs. effective stress in rocks from published litreatures.
+In this project, we will collect data about velocity vs. effective stress in rocks from published litreatures.
